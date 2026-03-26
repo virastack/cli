@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./public/hero.jpg" alt="Vira Stack CLI" />
+  <img src="./public/start.jpg" alt="Vira Stack CLI" />
 </div>
 
 <br />
