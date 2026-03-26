@@ -1,0 +1,28 @@
+{
+  "name": "virastack",
+  "version": "0.0.1",
+  "description": "Virastack CLI",
+  "author": {
+    "name": "Ömer Gülçiçek (ViraStack)",
+    "email": "iletisim@omergulcicek.com",
+    "url": "https://omergulcicek.com"
+  },
+  "license": "MIT",
+  "homepage": "https://virastack.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virastack/cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/virastack/cli/issues"
+  },
+  "main": "index.js",
+  "bin": {
+    "virastack": "./index.js"
+  },
+  "keywords": [
+    "virastack",
+    "cli",
+    "init"
+  ]
+}
